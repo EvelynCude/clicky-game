@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://vignette.wikia.nocookie.net/poohadventures/images/9/97/Scarlet_Witch.jpg/revision/latest?cb=20160925040828",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://static.comicvine.com/uploads/original/5/59300/4118661-8428569452-4242g.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/originals/88/31/f4/8831f4e3307472bb2261252f759e0f33.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://i.pinimg.com/736x/d2/8a/52/d28a52d29a2685433e894aa3eff9156a--hawkeye-comic-books.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "http://static.tvtropes.org/pmwiki/pub/images/the_vision_5755.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "http://art.cafimg.com/images/Category_1/subcat_35292/SKETCH19SPIDER-MAN.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/736x/51/a5/e9/51a5e97a0bd9546cd76818fd3afa17bf--ms-marvel-marvel-heroes.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "http://www.comicbookreligion.com/img/c/a/Captain_America_Steve_Rogers.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/originals/a0/06/32/a00632079c80adf6da53033c16f8421c.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/powerlisting/images/6/6f/Hulk.jpg/revision/latest?cb=20160414122204&path-prefix=vi",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://orig00.deviantart.net/4b57/f/2012/030/9/d/avengers_black_widow_by_jprart-d4o4a2g.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "http://static.comicvine.com/uploads/original/11/117763/2726440-tumblr_me900x9mav1qiknbco1_1280.jpg",
+        "clicked": false
+    }
+]
